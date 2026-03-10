@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # 앱 제목 설정
-st.title('🚀 나의 첫 Streamlit 웹 앱')
+st.title('🚀 수정된 나의 첫 Streamlit 웹 앱')
 
 # 간단한 텍스트 출력
 st.write('GitHub를 통해 배포된 Streamlit 페이지입니다.')
